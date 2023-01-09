@@ -15,5 +15,5 @@ def mediana(escala):
 
 import statistics
 escala = [67, 75, 63, 72, 77, 78, 81, 77, 80]
-print('c)Mediana:', mediana(escala))
+print('Mediana:', mediana(escala))
 print('Mediana biblioteca:', statistics.median(escala))

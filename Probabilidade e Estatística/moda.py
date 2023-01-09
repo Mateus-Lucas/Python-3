@@ -10,5 +10,5 @@ def moda(escala):
   
 escala = [67, 75, 63, 72, 77, 78, 81, 77, 80]
 import statistics 
-print('b)Moda:', moda(escala))
+print('Moda:', moda(escala))
 print('Moda:', statistics.mode(escala))

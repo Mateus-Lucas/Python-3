@@ -11,5 +11,5 @@ def media_ari(consumo):
 
 consumo = [10, 13, 17, 9,  8, 11, 13, 7]
 import statistics 
-print('a)Média aritimética:', media_ari(consumo))
+print('Média aritimética:', media_ari(consumo))
 print('Média aritimética da biblioteca:', statistics.mean(consumo))
